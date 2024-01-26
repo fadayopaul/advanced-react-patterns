@@ -23,3 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 react-render-props-starter/node_modules/
+compound-component-pattern/node_modules/
